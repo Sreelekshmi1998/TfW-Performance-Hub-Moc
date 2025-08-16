@@ -77,11 +77,6 @@ LICENSE
 
 ---
 
-## 📝 License
-Released under the MIT License — see [`LICENSE`](LICENSE).
-
----
-
 ## 🙋‍♀️ Contact
 **Sreelekshmi Sreekumar** · Performance Reporting Analyst  
 LinkedIn: https://www.linkedin.com/in/sreelekshmi-sreekumar-8a171a21b/  

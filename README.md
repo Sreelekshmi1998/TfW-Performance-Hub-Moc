@@ -14,11 +14,11 @@ A centralised **Power BI** solution that integrates KPIs across multiple functio
 ---
 
 ## 🧭 Pages in the Report
-1. **KPI Overview** — High‑level KPI cards, trend bars vs target, primary delay pie, year‑over‑year area charts.  
-2. **Current Period** — Daily progression for MINS/CAPES, incident causes tooltips, incident location map.  
-3. **Incident Analysis** — Root cause table with drill‑through to incident details; TINS by Line of Route; major locations.  
-4. **Department Analysis** — Root causes by TINS, headcodes, top payees; drill‑through to payee detail for training focus.  
-5. **NULL Report** — 7‑day attribution window monitoring; overdue/1‑day‑left/2+‑days‑left; matrix by manager.
+1. **KPI Overview** - High‑level KPI cards, trend bars vs target, primary delay pie, year‑over‑year area charts.  
+2. **Current Period** - Daily progression for MINS/CAPES, incident causes tooltips, incident location map.  
+3. **Incident Analysis** - Root cause table with drill‑through to incident details; TINS by Line of Route; major locations.  
+4. **Department Analysis** - Root causes by TINS, headcodes, top payees; drill‑through to payee detail for training focus.  
+5. **NULL Report** - 7‑day attribution window monitoring; overdue/1‑day‑left/2+‑days‑left; matrix by manager.
 
 See full Guidance Notes in [`docs/guidance_notes.md`](docs/guidance_notes.md).
 
@@ -57,10 +57,11 @@ See full Guidance Notes in [`docs/guidance_notes.md`](docs/guidance_notes.md).
 README.md
 LICENSE
 
-
+```
 ---
 
 ## 🙋‍♀️ Contact
 **Sreelekshmi Sreekumar** · Performance Reporting Analyst  
 LinkedIn: https://www.linkedin.com/in/sreelekshmi-sreekumar-8a171a21b/  
 Email: sreelekshmisk98@gmail.com
+---

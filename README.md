@@ -58,10 +58,8 @@ README.md
 LICENSE
 
 ```
----
 
 ## 🙋‍♀️ Contact
 **Sreelekshmi Sreekumar** · Performance Reporting Analyst  
 LinkedIn: https://www.linkedin.com/in/sreelekshmi-sreekumar-8a171a21b/  
 Email: sreelekshmisk98@gmail.com
----

@@ -25,12 +25,12 @@ See full Guidance Notes in [`docs/guidance_notes.md`](docs/guidance_notes.md).
 ---
 
 ## 📊 KPI Glossary
-- **MINS** — Total delay minutes  
-- **CAPES** — Total Cancellations (Full + 0.5 × Part)  
-- **TINS** — Total number of incidents  
-- **PRIM:REACT** — Ratio of primary to reactionary delay minutes  
-- **MINS (Not Investigated %)** — % delay minutes not yet investigated  
-- **CAPES (Not Investigated %)** — % cancellations not yet investigated  
+- **MINS** - Total delay minutes  
+- **CAPES** - Total Cancellations (Full + 0.5 × Part)  
+- **TINS** - Total number of incidents  
+- **PRIM:REACT** - Ratio of primary to reactionary delay minutes  
+- **MINS (Not Investigated %)** - % delay minutes not yet investigated  
+- **CAPES (Not Investigated %)** - % cancellations not yet investigated  
 
 ---
 
@@ -56,24 +56,7 @@ See full Guidance Notes in [`docs/guidance_notes.md`](docs/guidance_notes.md).
 
 README.md
 LICENSE
-.gitignore
-```
-> Place your anonymised screenshots in `/images`. Keep filenames descriptive and consistent with this README.
 
----
-
-## 🔒 Anonymisation Checklist
-- Replace/erase all KPI values and targets  
-- Replace names/IDs with placeholders (e.g., *Employee 1*, *Station A*)  
-- Blur/strike any notes, memos, TRUST codes, or FOI references  
-- Add a small caption or watermark: *“Fictional data — for demonstration only”*
-
----
-
-## 🌐 Using This in Your Portfolio
-- Link to this repo in your CV and Global Talent Visa evidence list.  
-- In your personal statement, reference specific pages and how they drive decisions.  
-- Optional: Add a short Loom/recorded walkthrough (no real data) and link it here.
 
 ---
 

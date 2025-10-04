@@ -1,15 +1,15 @@
-# 🚆 Transport for Wales — All‑Function Performance Hub (Power BI)
+# 🚆 Transport for Wales - All‑Function Performance Hub (Power BI)
 
 **Role:** Performance Reporting Analyst  
 **Organisation:** Transport for Wales (TfW)  
-**Period:** Nov 2024 – Present
+**Period:** Nov 2024 - Present
 
 > **Confidentiality Notice:** All screenshots in this repository use **mocked/anonymised values**. No operational or personal data is shared. Images are for demonstration purposes only.
 
 ---
 
 ## 📌 Overview
-A centralised **Power BI** solution that integrates KPIs across multiple functions—Drivers, Conductors, Fleet, Train Planning, Resources, Control, and Station Operations. The hub enables leadership to track **TINS (incidents), MINS (delay minutes), CAPES (cancellations)**, investigate root causes, and compare performance against targets and prior periods.
+A centralised **Power BI** solution that integrates KPIs across multiple functions-Drivers, Conductors, Fleet, Train Planning, Resources, Control, and Station Operations. The hub enables leadership to track **TINS (incidents), MINS (delay minutes), CAPES (cancellations)**, investigate root causes, and compare performance against targets and prior periods.
 
 ---
 

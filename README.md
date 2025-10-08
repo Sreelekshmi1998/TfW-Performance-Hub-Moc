@@ -4,7 +4,7 @@
 **Organisation:** Transport for Wales (TfW)  
 **Period:** Nov 2024 - Present
 
-> **Confidentiality Notice:** All screenshots in this repository use **mocked/anonymised values**. No operational or personal data is shared. Images are for demonstration purposes only.
+> **Confidentiality Notice:**All screenshots in this repository have had all values erased. No operational, personal, or confidential data is included. Images are for demonstration purposes only.
 
 ---
 

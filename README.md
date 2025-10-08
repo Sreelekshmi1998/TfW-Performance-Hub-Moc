@@ -44,33 +44,24 @@ See full Guidance Notes in [`docs/guidance_notes.md`](docs/guidance_notes.md).
 
 ## 📂 Repository Structure
 ```
-/images
-Fig 0: overview.png
 
-Fig 1: KPI.png
+├── README.md
+├── images/
+│   ├── overview.png
+│   ├── KPI.png
+│   ├── Beyond Last 14 periods.png
+│   ├── tooltip_mins.png
+│   ├── Current Period.png
+│   ├── Incident Analysis.png
+│   ├── Drillthrough Root cause.png
+│   ├── Inc Val drillthrough.png
+│   ├── Dept Analysis.png
+│   ├── Null Report.png
+│   └── README.md
+│
+├── docs/
+│   └── guidance_notes.md
 
-Fig 1.1: Beyond Last 14 periods.png
-
-Fig 1.2: tooltip_mins.png
-
-Fig 2: Current Period.png
-
-Fig 3: Incident Analysis.png
-
-Fig 3.1: Drillthrough Root cause.png
-
-Fig 3.1.1: Inc Val drillthrough.png
-
-Fig 4: Dept Analysis.png
-
-Fig 5: Null Report.png
-
-README.md
-
-/docs
-  guidance_notes.md
-
-README.md
 
 ```
 

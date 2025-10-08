@@ -45,17 +45,32 @@ See full Guidance Notes in [`docs/guidance_notes.md`](docs/guidance_notes.md).
 ## 📂 Repository Structure
 ```
 /images
-  kpi_overview_mock.png
-  current_period_mock.png
-  incident_analysis_mock.png
-  department_analysis_mock.png
-  null_report_mock.png
+Fig 0: overview.png
+
+Fig 1: KPI.png
+
+Fig 1.1: Beyond Last 14 periods.png
+
+Fig 1.2: tooltip_mins.png
+
+Fig 2: Current Period.png
+
+Fig 3: Incident Analysis.png
+
+Fig 3.1: Drillthrough Root cause.png
+
+Fig 3.1.1: Inc Val drillthrough.png
+
+Fig 4: Dept Analysis.png
+
+Fig 5: Null Report.png
+
+README.md
 
 /docs
   guidance_notes.md
 
 README.md
-LICENSE
 
 ```
 

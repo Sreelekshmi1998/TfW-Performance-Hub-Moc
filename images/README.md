@@ -1,7 +1,3 @@
-# README.md - Images Folder
-
-This folder contains all the figures used in the TfW Performance Hub Power BI mock dashboard, with **fictional/anonymised data**.
-
 > **Note:** The examples below use the **Drivers** tab for demonstration purposes.
 
 ## Figures

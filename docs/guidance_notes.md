@@ -101,5 +101,5 @@ Actions:
 ---
 
 ## 🔒 Data Protection
-All screenshots in this repo have **no real values**. Where layouts are shown, numbers are either erased or replaced with mock values. Names, locations, TRUST codes, and memos are replaced with placeholders.
+Confidentiality Notice: All screenshots in this repository contain no real data. All values have been completely erased - only the figure structures are shown for demonstration purposes.
 

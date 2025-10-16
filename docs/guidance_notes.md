@@ -1,6 +1,6 @@
 # 📘 Guidance Notes - TfW Performance Hub (Power BI)
 
-This document describes how each page of the dashboard is used, matching the live report structure while using **fictional/anonymised** visuals.
+This document describes how each page of the dashboard is used, matching the live report structure while using **anonymised** visuals.
 
 ---
 
